@@ -3,19 +3,6 @@
 A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀
 Currently, I am pursuing a B.Tech in Computer Science & Engineering with an additional minor degree in Data Science at K.J. Somaiya College of Engineering, Mumbai. 🎓
 
-📬 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/rishabh-agrawal-110a09258/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://wa.me/9769319089?text=Hey+Rishabh" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="mailto:rishabhagrawal0623@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
-
 🛠️ Languages and Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -45,10 +32,28 @@ Currently, I am pursuing a B.Tech in Computer Science & Engineering with an addi
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 <img src="https://leetcard.jacoblin.cool/moriarty19?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/moriarty19/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="LeetCode Stats" width="400"/>
-<br><br>
+</td>
+<td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=19rishabh&" alt="GitHub Streak Stats"/>
+</td>
+</tr>
+</table>
+
+📬 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/rishabh-agrawal-110a09258/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://wa.me/9769319089?text=Hey+Rishabh" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="mailto:rishabhagrawal0623@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
 
 <p align="center">
