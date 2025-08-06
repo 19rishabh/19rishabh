@@ -3,7 +3,7 @@
 A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀
 Currently, I am pursuing a B.Tech in Computer Science & Engineering with an additional minor degree in Data Science at K.J. Somaiya College of Engineering, Mumbai. 🎓
 
-🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -43,8 +43,8 @@ Currently, I am pursuing a B.Tech in Computer Science & Engineering with an addi
 </tr>
 </table>
 
-📬 Connect with me:
-<p align="left">
+### 📬 Connect with me:
+<p align="center">
 <a href="https://www.linkedin.com/in/rishabh-agrawal-110a09258/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
