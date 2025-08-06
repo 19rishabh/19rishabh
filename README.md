@@ -39,7 +39,7 @@
 <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/render-com/render-com-icon.svg" alt="render" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
-
+<br>
 <h3 align="center">📬 Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rishabh-agrawal-110a09258/" target="_blank">
