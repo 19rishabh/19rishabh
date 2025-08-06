@@ -1,6 +1,6 @@
 ## <h1 align="center">Hey there 👋, I'm Rishabh Agrawal</h1>
 
-**A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀**
+<h3>A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀</h3>
 
 
 <table align="center">
@@ -14,7 +14,8 @@
 </tr>
 </table>
 
-### <h1 align="center">🛠️ Languages and Tools</h1>
+
+<h3 align="center">🛠️ Languages and Tools</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -43,7 +44,8 @@
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
 
-**<h1 align="center">📬 Connect with me</h1>**
+
+<h3 align="center">📬 Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rishabh-agrawal-110a09258/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -55,6 +57,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=19rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
