@@ -1,7 +1,7 @@
 ## <h1 align="center">Hey there 👋, I'm Rishabh Agrawal</h1>
 
-### A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀
-### Currently, I am pursuing a B.Tech in Computer Science & Engineering with an additional minor degree in Data Science at K.J. Somaiya College of Engineering, Mumbai. 🎓
+**A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀**
+
 
 <table align="center">
 <tr>
