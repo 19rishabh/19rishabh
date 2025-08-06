@@ -1,7 +1,18 @@
 ## <h1 align="center">Hey there 👋, I'm Rishabh Agrawal</h1>
 
-**A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀**
-**Currently, I am pursuing a B.Tech in Computer Science & Engineering with an additional minor degree in Data Science at K.J. Somaiya College of Engineering, Mumbai. 🎓**
+### A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀
+### Currently, I am pursuing a B.Tech in Computer Science & Engineering with an additional minor degree in Data Science at K.J. Somaiya College of Engineering, Mumbai. 🎓
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://leetcard.jacoblin.cool/moriarty19?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/moriarty19/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="LeetCode Stats" width="400"/>
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=19rishabh&" alt="GitHub Streak Stats"/>
+</td>
+</tr>
+</table>
 
 ### <h1 align="center">🛠️ Languages and Tools</h1>
 <p align="left">
@@ -31,17 +42,6 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" alt="Render"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://leetcard.jacoblin.cool/moriarty19?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/moriarty19/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="LeetCode Stats" width="400"/>
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=19rishabh&" alt="GitHub Streak Stats"/>
-</td>
-</tr>
-</table>
 
 **<h1 align="center">📬 Connect with me</h1>**
 <p align="center">
