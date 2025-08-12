@@ -1,6 +1,6 @@
 ## <h1 align="center">Hey there 👋, I'm Rishabh Agrawal</h1>
 
-<h3 align="center">A passionate developer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in ML. 🚀</h3>
+<h3 align="center">A passionate software engineer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in AI/ML. 🚀</h3>
 
 
 <table align="center">
