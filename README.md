@@ -1,4 +1,4 @@
-## <h1 align="center">Hey there 👋, I'm Rishabh Agrawal</h1>
+## <h1 align="center">Hey there, I'm Rishabh Agrawal <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
 
 <h3 align="center">A passionate software engineer who thrives on solving challenging problems and building modern, impactful solutions with a keen interest in AI/ML. 🚀</h3>
 
